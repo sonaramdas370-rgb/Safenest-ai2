@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sonaramdas370-rgb.github.io/Safenest-ai2/sitemap.xml
